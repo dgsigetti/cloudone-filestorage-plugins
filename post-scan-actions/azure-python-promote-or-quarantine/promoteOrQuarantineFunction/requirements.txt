@@ -2,4 +2,4 @@
 
 azure-functions==1.7.2
 azure-storage-blob
-azure-identity==1.6.0
+azure-identity==1.16.1
